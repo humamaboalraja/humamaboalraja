@@ -3,7 +3,7 @@
 
 A Berlin based engineer Software/ digital product engineer/ **Rustacean** who's interested in Full-stack product engineering, Backend architectures, and Data applications, building **Tools that build tools** and education and re-writing everything i've ever done in Rust 🦀
 
-Currently doing my Software Engineering B.Sc. and working as an teaching/teaching assistant at CODE University.
+- 🎓 Currently doing my Software Engineering B.Sc. and working as an teaching/teaching assistant at CODE University.
 
 
 </br>
