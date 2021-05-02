@@ -1,4 +1,4 @@
-## Hi People 👋🏼
+## Hi People 👋🏽
 
 
 A Berlin based engineer Software/ digital product engineer/ **Rustacean** who's interested in Full-stack product engineering, Backend architectures, and Data applications, building **Tools that build tools** and education and re-writing everything i've ever done in Rust 🦀
