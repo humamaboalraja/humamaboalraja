@@ -6,18 +6,6 @@ A Berlin based Software/Digital product engineer who's interested in Full-stack 
 - 🎓 Currently doing my Software Engineering B.Sc. and working as an teaching/teaching assistant at CODE University.
 
 
-</br>
-
-
-## 📍 Pinned side Projects
-
-💻 **[Sengineer.io](https://github.com/sengineer-io/Software-Engineering-Roadmap)** - Sengineer.io is an equivalent of a full Software engineering bachelor's degree, and the modernist way of learning and mastering Software Engineering and balancing between theory and applying it. _(Current)_
-</br>
-
-
-</br>
-
-
 
 
 
