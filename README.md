@@ -1,7 +1,7 @@
 ## Hi People 👋🏽
 
 
-A Berlin based Software/Digital product engineer who's interested in Full-stack product engineering, Backend architectures, Large-scale distributed systems, and Data applications, building **Tools that build tools**.
+A Software engineer who's interested in problem‑solving for challenging tasks, designing Large‑scale Distributed & Backend systems, Software Architecture, and Data Applications. 
 
 - 🎓 Currently doing my Software Engineering B.Sc. and working as an teaching/teaching assistant at CODE University.
 
