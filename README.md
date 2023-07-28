@@ -1,10 +1,7 @@
 ## Hi People 👋
 
 
-A Software engineer who's interested in problem‑solving for challenging tasks, designing Large‑scale Distributed & Backend systems, Software Architecture, and Data Applications. 
-
-- 🎓 Currently doing my Software Engineering B.Sc. and working as an teaching/teaching assistant at CODE University.
-
+I'm a Software engineer who's interested in problem-solving for challenging tasks, designing Large-scale Distributed & Backend systems, Software Architecture, and Data Applications. Capable of taking ownership of projects, and Passionate about all the phases of building Software. I have a Bachelor's degree in Software Engineering from CODE University in Berlin.
 
 
 
