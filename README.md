@@ -7,6 +7,7 @@ A Software Engineer who finds joy in problem-solving for challenging tasks that 
 ### Technology I enjoy using
 [![Rust Badge](https://img.shields.io/badge/-Rust-1C1F22?style=flat&logo=Rust&logoColor=white)](#)
 [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-1C1F22?style=flat&logo=Kotlin&logoColor=white)](#)
+[![Zig Badge](https://img.shields.io/badge/-Zig-1C1F22?style=flat&logo=Zig&logoColor=white)](#)
 [![Go Badge](https://img.shields.io/badge/-Go-1C1F22?style=flat&logo=Go&logoColor=white)](#)
 [![NeoVim Badge](https://img.shields.io/badge/-Neovim-1C1F22?style=flat&logo=Neovim&logoColor=white)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-1C1F22?style=flat&logo=Typescript&logoColor=white)](#)
