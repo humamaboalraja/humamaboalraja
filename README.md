@@ -4,11 +4,12 @@ A Software Engineer who finds joy in problem-solving for challenging tasks that 
 
 
 
-### Technology I enjoy using
+### Technology I use/ enjoy using
 [![Rust Badge](https://img.shields.io/badge/-Rust-1C1F22?style=flat&logo=Rust&logoColor=white)](#)
 [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-1C1F22?style=flat&logo=Kotlin&logoColor=white)](#)
 [![Zig Badge](https://img.shields.io/badge/-Zig-1C1F22?style=flat&logo=Zig&logoColor=white)](#)
 [![Go Badge](https://img.shields.io/badge/-Go-1C1F22?style=flat&logo=Go&logoColor=white)](#)
+[![C Badge](https://img.shields.io/badge/-C-1C1F22?style=flat&logo=C&logoColor=white)](#)
 [![NeoVim Badge](https://img.shields.io/badge/-Neovim-1C1F22?style=flat&logo=Neovim&logoColor=white)](#)
 [![Tmux Badge](https://img.shields.io/badge/-Tmux-1C1F22?style=flat&logo=Tmux&logoColor=white)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-1C1F22?style=flat&logo=Typescript&logoColor=white)](#)
@@ -35,7 +36,11 @@ A Software Engineer who finds joy in problem-solving for challenging tasks that 
 
 If you have any questions or wish to connect, feel free to reach out to me via the following platforms or [E-mail](mailto:humamaboalraja@gmail.com?subject=Hi👋🏽&body=)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1C1F22?style=flat&logo=twitter&logoColor=white)](https://twitter.com/humamaboalraja)
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-1C1F22?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humamaboalraja/)
-[![medium Badge](https://img.shields.io/badge/-Medium-1C1F22?style=flat&logo=medium&logoColor=white)](https://medium.com/@humamaboalraja)
+[![Substack](https://img.shields.io/badge/Github-1C1F22?logo=github&logoColor=white)](https://github.com/humamaboalraja)
+[![Substack](https://img.shields.io/badge/Substack-1C1F22?logo=substack&logoColor=white)](https://substack.com/@humamaboalraja)
+[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/Linkedin-1C1F22?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/humamaboalraja/)
+[![X Badge](https://img.shields.io/badge/-X-1C1F22?style=flat&logo=X&logoColor=white)](https://x.com/humamaboalraja)
+[![medium Badge](https://img.shields.io/badge/-Medium-1C1F22?style=flat&logo=Medium&logoColor=white)](https://medium.com/@humamaboalraja)
+
+
 
